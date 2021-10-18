@@ -1,0 +1,16 @@
+.container {
+  height: 50px;
+  background-color: burlywood;
+}
+/* relative has relationship with parent, 
+any container that has text
+will use the combination of the two*/
+/* Position relative moves element relative to the parent
+sometimes used in hero banners or call to action boxes
+with text on top of image.
+*/
+.relative-position {
+  position: relative;
+  top: 25px;
+  left: 40px;
+}
